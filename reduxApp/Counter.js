@@ -9,7 +9,7 @@ class Counter extends Component {
       <View
         style={{
           flexDirection: 'row',
-          justifyContent: '',
+          justifyContent: 'space-around',
         }}>
         <TouchableOpacity onPress={this.props.increaseCounter}>
           <Text>INCREASE</Text>
