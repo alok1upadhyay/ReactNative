@@ -1,3 +1,5 @@
+You must install redux with: npm install --save redux and install react-redux with: npm install --save react-redux.
+
 # redux
 it’s an application data-flow architecture. As per docs, Redux is a predictable state container for JavaScript apps.
 Important terms:
