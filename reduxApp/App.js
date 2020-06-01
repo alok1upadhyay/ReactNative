@@ -8,7 +8,7 @@
 
 import React from 'react';
 import Counter from './Counter';
-import store from './Store/index';
+import store from './store/index';
 
 import {Provider} from 'react-redux';
 

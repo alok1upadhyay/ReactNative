@@ -39,7 +39,7 @@ class Counter extends Component {
 
 //returns state which maps to props
 function mapStateToProps(state) {
-  return {count: state.count};
+  return {count: state.countReducer.count};
 }
 
 const mapDispatchToProps = {
