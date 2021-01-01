@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <View>
+    <Text>
+      This is a React Native app inclused redux, saga, actions, reducers, components, accessibility, jest. Needs to include seperate styling and dev, stage, preProd & prod schemas.
+    </Text>
+  </View>
+</RCTSafeAreaView>
+`;
